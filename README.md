@@ -22,3 +22,9 @@ O modelo utilizado foi o LightGBM e as métricas (RMSE e MAE) foram comparadas a
 Temas como overffiting, homogeneidade e transformações de variáveis importantes estiveram presentes nesta última apresentação. Além de uma aba exclusiva com possíveis melhorias para o modelo atual. Esse foi o meu último projeto finalizado, eai o que acharam?
 Comentários e sugestões são sempre bem vindos ;)
 
+Link Oficial do Projeto:
+
+https://www.kaggle.com/code/uelitonviana/walmart-analise-e-previsao-de-vendas/edit/run/113563079
+
+Algumas Imagens do Projeto:
+
